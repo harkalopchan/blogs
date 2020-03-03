@@ -1,0 +1,116 @@
+{
+    "data" : [
+        {
+            "title": "How to work during a pandemic",
+            "description": "The world is bracing for the seemingly inevitable proliferation of SARS-COV-12, also known as COVID-19 and coronavirus, which has already paralyzed cities and isolated mi ...",
+            "image": "images/GettyImages-sb10065989a-001-1.jpg",
+            "author": "JDevin Coldewey",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "news,image",
+            "articleType": "paid"
+        },
+        {
+            "title": "Making money from games: the future of virtual economies",
+            "description": "Fictional portrayals of virtual worlds such as “Ready Player One” and “The Matrix” typically portray the physical and virtual worlds as distinct realms siloed from each ...",
+            "image": "images/06-metaverse-part-6.jpg",
+            "author": "Eric Peckham",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "image",
+            "articleType": "paid"
+        },
+        {
+            "title": "Unpacking Procore’s S-1 filing",
+            "description": "Today we’re in for a treat, as we get to dig into Procore’s S-1 filing. In case you aren’t familiar, Procore sells software that helps manage construction projects, b ...",
+            "image": "images/GettyImages-1001168362.jpg",
+            "author": "Alex Wilhelm",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "news",
+            "articleType": "free"
+        },
+        {
+            "title": "Equity Monday: Cherre raises $16M, Lyft’s critical earnings and WeWork’s profit hopes",
+            "description": "Good morning friends, and welcome back to TechCrunch’s Equity Monday, a short-form audio hit to kickstart your week. Regular Equity episodes still drop Friday morning ...",
+            "image": "images/equity-podcast-techcrunch-2019-edge.png",
+            "author": "Alex Wilhelm",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "audio",
+            "articleType": "free"
+        },
+        {
+            "title": "Coronavirus grifts crop up online for political gain and profit",
+            "description": "These days capitalism and democracy seem to mean that it’s never too early to take advantage of the misery of others, and the outbreak of the novel coronavirus, COVID ...",
+            "image": "images/GettyImages-1201647513.jpg",
+            "author": "Jonathan Shieber",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "events",
+            "articleType": "free"
+        },
+        {
+            "title": "SeeHow brings cricketers and coaches closer to their data",
+            "description": "It’s never a good sign when, in order to discuss the near future of technology, you first have to talk about epidemiology–but I’m afraid that’s where we’re at. A week ...",
+            "image": "images/5e5858421bd861498e213bc0_o_U_v1.png",
+            "author": "Jon Evans",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "events",
+            "articleType": "video"
+        },
+        {
+            "title": "This Week in Apps: Coronavirus impacts app stores, Facebook sues mobile SDK maker, Apple kicks out a cloud gaming app",
+            "description": "Welcome back to This Week in Apps, the Extra Crunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The ...",
+            "image": "images/this-week-in-apps-splash.png",
+            "author": "Sarah Perez",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "news",
+            "articleType": "free",
+            "isFeatured": "1"
+        },
+        {
+            "title": "Teebike turns any bike into an electric bike",
+            "description": "It’s never a good sign when, in order to discuss the near future of technology, you first have to talk about epidemiology–but I’m afraid that’s where we’re at. A week ...",
+            "image": "images/5e56902ff97a5029282da35f_o_U_v1.jpg",
+            "author": "Jon Evans",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "video",
+            "articleType": "paid"
+        },
+        {
+            "title": "Podium rolls out payments for its customer-focused local-business SaaS service",
+            "description": "It’s never a good sign when, in order to discuss the near future of technology, you first have to talk about epidemiology–but I’m afraid that’s where we’re at. A week ...",
+            "image": "images/cfs.png",
+            "author": "Alex Wilhelm",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "video",
+            "articleType": "paid"
+        },
+        {
+            "title": "This Week in Apps: Coronavirus impacts app stores, Facebook sues mobile SDK maker, Apple kicks out a cloud gaming app",
+            "description": "It’s never a good sign when, in order to discuss the near future of technology, you first have to talk about epidemiology–but I’m afraid that’s where we’re at. A week ...",
+            "image": "images/1.jpeg",
+            "author": "Jon Evans",
+            "post_date": "March 1, 2020",
+            "post_time": "7:45 pm",
+            "pageUrl": "https://www.google.com",
+            "category": "video",
+            "articleType": "paid"
+        }
+        
+    ]
+}

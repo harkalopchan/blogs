@@ -1,0 +1,28 @@
+footer {
+  .col-md-9 {
+    padding-top: 20px;
+    font-size: 12px;
+    border-top: 2px solid $greyL;
+  }
+
+  a {
+    color: $base;
+    border-bottom: 1px dotted transparent;
+    
+    &:hover {
+      color: $green;
+      border-bottom-color: $green;
+    }
+  }
+}
+
+.menu-footer {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0;
+  
+  li {
+    margin: 0 10px 8px;
+    display: inline-block;
+  }
+}

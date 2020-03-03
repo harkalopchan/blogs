@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ABC News</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+<body>
+    <header>
+		<div class="container">
+			<h1><span>ABC</span> News</h1>
+		</div>
+	</header>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 pt-4">
+        <div class="sidebar">
+          <div class="filter-block mt-3">
+            <label for="category">Select category:</label>
+            <select id="category" class="form-control"></select>
+          </div>
+          <div class="filter-block">
+            <label for="articleType">Select article type:</label>
+            <select id="articleType" class="form-control"></select>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="row" id="newsFeed"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 offset-md-3 text-center">
+                <ul class="menu-footer">
+                    <li><a href="/">TechCrunch</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Code of Conduct</a></li>
+                    <li><a href="#">Terms of Service</a>
+                    </li>
+                </ul>
+                <p>&copy;2020 ABC News. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="js/app.js"></script>
+</body>
+</html>
+

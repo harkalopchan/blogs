@@ -1,0 +1,25 @@
+@@include('../partials/header.html')
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 pt-4">
+        <div class="sidebar">
+          <div class="filter-block mt-3">
+            <label for="category">Select category:</label>
+            <select id="category" class="form-control"></select>
+          </div>
+          <div class="filter-block">
+            <label for="articleType">Select article type:</label>
+            <select id="articleType" class="form-control"></select>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="row" id="newsFeed"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+@@include('../partials/footer.html')

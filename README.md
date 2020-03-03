@@ -1,10 +1,10 @@
 # Blogs List Page
 
-A test project to get the list of blogs from the JSON data file and display to page. This project is using the concept of HTML Partial View.
+A sample project to show the list of blogs from the JSON data file and display to page. This project is using the concept of HTML Partial View.
 
 ### Tools
 
-- Boostrap
+- Bootstrap
 - jQuery
 - Select2.js
 - SCSS

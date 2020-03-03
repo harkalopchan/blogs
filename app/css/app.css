@@ -11759,11 +11759,15 @@ header h1 span {
   color: #28a745;
 }
 
-/* line 2, app/scss/layouts/_footer.scss */
+/* line 1, app/scss/layouts/_footer.scss */
+footer {
+  background: #f1f1f1;
+}
+
+/* line 3, app/scss/layouts/_footer.scss */
 footer .col-md-9 {
   padding-top: 20px;
   font-size: 12px;
-  border-top: 2px solid #f1f1f1;
 }
 
 /* line 8, app/scss/layouts/_footer.scss */
@@ -11791,8 +11795,13 @@ footer a:hover {
   display: inline-block;
 }
 
+/* line 1, app/scss/layouts/_layout.scss */
+section {
+  margin-bottom: 20px;
+}
+
 @media (min-width: 768px) {
-  /* line 1, app/scss/layouts/_layout.scss */
+  /* line 4, app/scss/layouts/_layout.scss */
   .sidebar {
     position: -webkit-sticky;
     position: sticky;
@@ -11800,55 +11809,55 @@ footer a:hover {
   }
 }
 
-/* line 7, app/scss/layouts/_layout.scss */
+/* line 10, app/scss/layouts/_layout.scss */
 .filter-block {
   margin-bottom: 30px;
 }
 
-/* line 9, app/scss/layouts/_layout.scss */
+/* line 12, app/scss/layouts/_layout.scss */
 .filter-block label {
   display: block;
 }
 
-/* line 14, app/scss/layouts/_layout.scss */
+/* line 17, app/scss/layouts/_layout.scss */
 .select2-container {
   width: 100% !important;
 }
 
-/* line 19, app/scss/layouts/_layout.scss */
+/* line 22, app/scss/layouts/_layout.scss */
 .select2-container--default .select2-selection--single {
   border-radius: 0;
   height: 36px;
   text-transform: capitalize;
 }
 
-/* line 24, app/scss/layouts/_layout.scss */
+/* line 27, app/scss/layouts/_layout.scss */
 .select2-container--default .select2-selection--single:focus {
   box-shadow: none;
   outline: none;
 }
 
-/* line 29, app/scss/layouts/_layout.scss */
+/* line 32, app/scss/layouts/_layout.scss */
 .select2-container--default .select2-selection--single .select2-selection__rendered {
   line-height: 32px;
 }
 
-/* line 33, app/scss/layouts/_layout.scss */
+/* line 36, app/scss/layouts/_layout.scss */
 .select2-container--default .select2-selection--single .select2-selection__arrow {
   height: 34px;
 }
 
-/* line 38, app/scss/layouts/_layout.scss */
+/* line 41, app/scss/layouts/_layout.scss */
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
   background-color: #28a745;
 }
 
-/* line 43, app/scss/layouts/_layout.scss */
+/* line 46, app/scss/layouts/_layout.scss */
 .select2-results__option {
   text-transform: capitalize;
 }
 
-/* line 47, app/scss/layouts/_layout.scss */
+/* line 50, app/scss/layouts/_layout.scss */
 .news-list-card {
   margin-bottom: 30px;
   transition: opacity .3s;
@@ -11859,22 +11868,22 @@ footer a:hover {
   border-top: 2px solid #f1f1f1;
 }
 
-/* line 56, app/scss/layouts/_layout.scss */
+/* line 59, app/scss/layouts/_layout.scss */
 .news-list-card:hover {
   opacity: .7;
 }
 
-/* line 60, app/scss/layouts/_layout.scss */
+/* line 63, app/scss/layouts/_layout.scss */
 .news-list-card img {
   width: 100%;
 }
 
-/* line 64, app/scss/layouts/_layout.scss */
+/* line 67, app/scss/layouts/_layout.scss */
 .news-list-card h2 {
   font-size: 30px;
 }
 
-/* line 69, app/scss/layouts/_layout.scss */
+/* line 72, app/scss/layouts/_layout.scss */
 .card-image {
   background-size: cover;
   background-position: center;
@@ -11883,54 +11892,54 @@ footer a:hover {
   margin-bottom: 20px;
 }
 
-/* line 78, app/scss/layouts/_layout.scss */
+/* line 81, app/scss/layouts/_layout.scss */
 .featuredCard .card-image {
   height: 400px;
 }
 
-/* line 83, app/scss/layouts/_layout.scss */
+/* line 86, app/scss/layouts/_layout.scss */
 .featuredCard.news-list-card h2 {
   font-size: 40px;
 }
 
-/* line 90, app/scss/layouts/_layout.scss */
+/* line 93, app/scss/layouts/_layout.scss */
 .post-author a {
   line-height: 1.23;
   color: #222;
   border-bottom: 1px dotted transparent;
 }
 
-/* line 95, app/scss/layouts/_layout.scss */
+/* line 98, app/scss/layouts/_layout.scss */
 .post-author a:hover {
   color: #28a745;
   border-bottom-color: #28a745;
 }
 
-/* line 102, app/scss/layouts/_layout.scss */
+/* line 105, app/scss/layouts/_layout.scss */
 .post-author,
 .post-desc {
   margin-bottom: 10px;
 }
 
-/* line 107, app/scss/layouts/_layout.scss */
+/* line 110, app/scss/layouts/_layout.scss */
 h2 {
   margin-bottom: 15px;
   line-height: 1.2;
 }
 
-/* line 111, app/scss/layouts/_layout.scss */
+/* line 114, app/scss/layouts/_layout.scss */
 h2 a {
   color: #222;
   border-bottom: 1px dotted transparent;
 }
 
-/* line 115, app/scss/layouts/_layout.scss */
+/* line 118, app/scss/layouts/_layout.scss */
 h2 a:hover {
   color: #28a745;
   border-bottom-color: #28a745;
 }
 
-/* line 122, app/scss/layouts/_layout.scss */
+/* line 125, app/scss/layouts/_layout.scss */
 #errorMsg {
   height: 300px;
   text-align: center;
@@ -11939,17 +11948,17 @@ h2 a:hover {
   justify-content: center;
 }
 
-/* line 130, app/scss/layouts/_layout.scss */
+/* line 133, app/scss/layouts/_layout.scss */
 .post-date {
   display: inline-block;
 }
 
-/* line 134, app/scss/layouts/_layout.scss */
+/* line 137, app/scss/layouts/_layout.scss */
 .tags {
   margin-bottom: 5px;
 }
 
-/* line 137, app/scss/layouts/_layout.scss */
+/* line 140, app/scss/layouts/_layout.scss */
 .tags a {
   display: inline-block;
   background: #28a745;
@@ -11962,34 +11971,35 @@ h2 a:hover {
   text-transform: capitalize;
 }
 
-/* line 151, app/scss/layouts/_layout.scss */
+/* line 154, app/scss/layouts/_layout.scss */
 .news-details .extra {
   font-size: 12px;
 }
 
-/* line 154, app/scss/layouts/_layout.scss */
+/* line 157, app/scss/layouts/_layout.scss */
 .news-details .extra .post-author {
   display: inline-block;
 }
 
-/* line 161, app/scss/layouts/_layout.scss */
+/* line 164, app/scss/layouts/_layout.scss */
 .link-more a {
   color: #28a745;
   border-bottom: 1px dotted transparent;
 }
 
-/* line 165, app/scss/layouts/_layout.scss */
+/* line 168, app/scss/layouts/_layout.scss */
 .link-more a:hover {
   border-bottom-color: #28a745;
+  letter-spacing: .5px;
 }
 
-/* line 171, app/scss/layouts/_layout.scss */
+/* line 175, app/scss/layouts/_layout.scss */
 .video,
 .audio {
   position: relative;
 }
 
-/* line 175, app/scss/layouts/_layout.scss */
+/* line 179, app/scss/layouts/_layout.scss */
 .video:before,
 .audio:before {
   content: '';
@@ -12005,7 +12015,7 @@ h2 a:hover {
   border-color: transparent transparent transparent #fff;
 }
 
-/* line 189, app/scss/layouts/_layout.scss */
+/* line 193, app/scss/layouts/_layout.scss */
 .video:after,
 .audio:after {
   content: '';
@@ -12020,19 +12030,19 @@ h2 a:hover {
 }
 
 @media (max-width: 991px) {
-  /* line 203, app/scss/layouts/_layout.scss */
+  /* line 207, app/scss/layouts/_layout.scss */
   h1 {
     font-size: 40px;
   }
-  /* line 208, app/scss/layouts/_layout.scss */
+  /* line 212, app/scss/layouts/_layout.scss */
   .featuredCard .card-image {
     height: 300px;
   }
-  /* line 213, app/scss/layouts/_layout.scss */
+  /* line 217, app/scss/layouts/_layout.scss */
   .featuredCard.news-list-card h2 {
     font-size: 30px;
   }
-  /* line 219, app/scss/layouts/_layout.scss */
+  /* line 223, app/scss/layouts/_layout.scss */
   .news-list-card h2 {
     font-size: 24px;
   }

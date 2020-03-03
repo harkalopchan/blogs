@@ -1,3 +1,6 @@
+section {
+  margin-bottom: 20px;
+}
 .sidebar {
   @media (min-width: 768px) {
     position: sticky;
@@ -164,6 +167,7 @@ h2 {
 
     &:hover {
       border-bottom-color: $green;
+      letter-spacing: .5px;
     }
   }
 }
